@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 👋, I'm Mohamed Rawash</h1>
+<h1 align="center" style="color: blue;">Hi everyone 👋, I'm Mohamed Rawash</h1>
 <h3 align="center">I grow to learn.</h3>
 <!-- 👋💙 🤝 -->
 
