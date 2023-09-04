@@ -2,11 +2,11 @@
 <h3 align="center">I grow to learn.</h3>
 <!-- 👋💙 🤝 -->
 <!-- 
-- 👨‍💻 Check my portfolio here [https://mohamed-rawash.github.io/portfolio/](https://mohamed-rawash.github.io/portfolio/) -->
+<!-- - 👨‍💻 Check my portfolio here [https://mohamed-rawash.github.io/portfolio/](https://mohamed-rawash.github.io/portfolio/) --> -->
 
-- 💬 Ask me about **Flutter, Machine Learning, Front-End, Vue.js**
+- 💬 Ask me about **Flutter, Machine Learning, Front-End**
 
-- 📫 How to reach me **rawashm35@gmail.com**
+- 📫 How to reach me **rawashmohamed36@gmail.com**
 
 - 📄 Know about my experiences in Flutter [https://drive.google.com/file/d/11REVan1MJek1sBhIZGpnlxmtAZscbnEv/view?usp=sharing](https://drive.google.com/file/d/11REVan1MJek1sBhIZGpnlxmtAZscbnEv/view?usp=sharing)
 - 📄 Know about my experiences in Front-End [https://drive.google.com/file/d/13mP8Z1mH02HVADpqDUPjJcyOKY69nKIO/view?usp=sharing](https://drive.google.com/file/d/13mP8Z1mH02HVADpqDUPjJcyOKY69nKIO/view?usp=sharing)
