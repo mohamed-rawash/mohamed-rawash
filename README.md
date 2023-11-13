@@ -3,8 +3,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=480&lines=Flutter+Developer+%7C+Front-End+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p> 
-<!-- 👋💙 🤝 -->
-- 👨‍💻 Check my portfolio here https://mohamed-rawash.github.io/portfolio/
+<!-- <!-- 👋💙 🤝 -->
+- 👨‍💻 Check my portfolio here https://mohamed-rawash.github.io/portfolio/ -->
 
 - 💬 Ask me about **Flutter, Machine Learning, Front-End**
 
