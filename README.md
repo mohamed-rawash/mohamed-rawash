@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Mohamed Rawash</h1>
-<h3 align="center">I grow to learn.👋💙 🤝</h3>
+<h3 align="center">I grow to learn.</h3>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter Developer%20Front-End%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=480&lines=Flutter+Developer+%7C+Front-End+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 </p> 
 <!-- 👋💙 🤝 -->
 - 👨‍💻 Check my portfolio here https://mohamed-rawash.github.io/portfolio/
