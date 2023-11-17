@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 👋, I'm Mohamed Rawash</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2B96C5&center=true&repeat=false&random=false&width=602&height=44&lines=Hi+everyone+%F0%9F%91%8B%2C+I'm+Mohamed+Rawash" alt="Typing SVG" /></a>
 <p align="center">I grow to learn.</p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=480&lines=Flutter+Developer+%7C+Front-End+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
