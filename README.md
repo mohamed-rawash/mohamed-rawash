@@ -4,6 +4,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=480&lines=Flutter+Developer+%7C+Front-End+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p> 
 
+<p align="center">
+  <a href="https://rawash-portfolio.web.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&random=false&width=600&lines=My+Portfolio" alt="Typing SVG" /></a>
+</p>
+
 - 💬 Ask me about **Flutter, Machine Learning, Front-End**
 
 - 📫 How to reach me **rawashmohamed36@gmail.com**
