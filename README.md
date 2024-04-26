@@ -5,9 +5,9 @@
 </p> 
 
 <p align="center">
-<a href="https://rawash-portfolio.web.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&repeat=false&random=false&width=600&lines=My+Portfolio" alt="Typing SVG" /></a></p>
+<a href="https://rawash-portfolio.web.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&repeat=false&random=false&width=600&lines=My+Portfolio+🌐" alt="Typing SVG" /></a></p>
 
-- 💻 [Check my portfolio](https://rawash-portfolio.web.app/)
+- [Check my portfolio 👋🏻💻](https://rawash-portfolio.web.app/)
 - 💬 Ask me about **Flutter, Machine Learning, Front-End**
 
 - 📫 How to reach me **rawashmohamed36@gmail.com**
